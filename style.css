@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+h1 {color: blueviolet;}
+h3 {color: aquamarine;}
+.lorem-text {color: aliceblue;
+}
+.pics{color: rgb(248, 250, 246);}
+.phone {color: firebrick;}
+.pics{font-style: oblique;}
+img{background-color: aliceblue;border-radius: 50px;border-style: solid;}
+li{color: crimson;margin-bottom: 50px;}
+ul{text-align: center;margin-bottom: 50PX;}
